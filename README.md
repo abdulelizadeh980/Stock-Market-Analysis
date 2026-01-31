@@ -1,4 +1,4 @@
-# 📈 Stock Market Analytics Dashboard (Python + Tableau)
+# 📈 Stock Market Analysis Dashboard (Python + Tableau)
 
 This project demonstrates an **end-to-end data analytics workflow** using  
 **Python (Pandas)** for data processing and **Tableau** for interactive visualization.
