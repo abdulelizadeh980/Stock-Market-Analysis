@@ -7,7 +7,7 @@ This project demonstrates an **end-to-end data analytics workflow** using
 
 ## 🖼️ Dashboard Preview
 
-![Stock Market Dashboard](images/stock_market_dashboard.png)
+![Stock Market Dashboard](Stock%20Market%20Analytics.png)
 
 
 
